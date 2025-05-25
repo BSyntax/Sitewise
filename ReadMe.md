@@ -11,7 +11,7 @@ Welcome to **SITEWISE**, your premier destination for exquisite living room and 
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript
-- **Deployment:** (https://seatwise.netlify.app/)
+- **Deployment:** (https://www.fennic.site/)
 
 ## 📦 Installation
 
