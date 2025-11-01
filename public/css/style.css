@@ -290,8 +290,8 @@ img {
 
 .home-pg.header {
   width: 100%;
-  height: calc(100vh - 86px - 34px);
-  max-height: calc(100vh - 86px - 34px);
+  height: calc(100vh - 90vh);
+  max-height: calc(100vh - 90vh);
   min-height: 80px;
   margin-top: 30px;
   position: fixed;
