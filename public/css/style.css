@@ -77,8 +77,8 @@ body.show-loginform .form-login {
 
 .container {
   width: 80%;
-  max-width: 1536px; /* or whatever your calculated width is */
-  margin: 0 auto; /* keeps it centered */
+  max-width: 1400px; 
+  margin: 0 auto; 
 }
 
 .btn {
